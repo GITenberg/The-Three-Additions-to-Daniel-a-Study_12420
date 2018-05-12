@@ -1,5 +1,8 @@
 _repo: The-Three-Additions-to-Daniel-a-Study_12420
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daubney, William Heaford
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4356'
     url: http://www.gutenberg.org/2009/agents/4356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12420#The-Three-Additions-to-Daniel-a-Study
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
